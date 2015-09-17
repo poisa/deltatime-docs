@@ -26,6 +26,9 @@ local deltatime = require "plugin.deltatime"
 deltatime.start( )
 
 local function enterFrame( )
+	-- Depending on your CPU speed, printing to the console will significantly reduce your fps.
+	-- If that is the case you should instead use display.newText in order to show this 
+	-- number more accurately.
 	print(deltatime.actualMsPerFrame( ))
 end
 
