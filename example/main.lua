@@ -2,7 +2,7 @@
 -- Abstract: deltatime Library Plugin Test Project
 -- 
 -- Sample code is MIT licensed, see http://www.coronalabs.com/links/code/license
--- Copyright (C) 2015 Corona Labs Inc. All Rights Reserved.
+-- Copyright (C) 2015 Julian Vidal. All Rights Reserved.
 --
 ------------------------------------------------------------
 

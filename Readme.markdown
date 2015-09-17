@@ -1,14 +1,13 @@
 # deltatime: Plugin API Docs
 
-|                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [library](http://docs.coronalabs.com/api/type/Library.html)
 | __Corona Store__     | [deltatime](http://store.coronalabs.com/plugin/deltatime)
-| __Keywords__         | delta time, framerate independent, animation
+| __Keywords__         | time-based, framerate independent, animation
 
 ## Overview
 
-The deltatime plugin can be used in your [Corona](https://coronalabs.com/products/corona-sdk/) project. It enables you to make time based animations (also known as framerate independent animations). This is important because you always want to have your objects move at the same speed regardless of what the framerate is. Even when you set your app's framerate at a fixed number it never really runs at exactly that speed; sometimes it's faster and sometimes it's slower. Even worse, the framerate varies considerably in cellphones as other processes are most likely running in the background and using CPU cycles for something other than your app.
+The deltatime plugin can be used in your [Corona](https://coronalabs.com/products/corona-sdk/) projects. It enables you to make time based animations (also known as framerate independent animations). This is important because you always want to have your objects move at the same speed regardless of what the framerate is. Even when you set your app's framerate at a fixed number it never really runs at exactly that speed; sometimes it's faster and sometimes it's slower. Even worse, the framerate varies considerably in cellphones as other processes are most likely running in the background and using CPU cycles for something other than your app.
 Using this library helps in making all animations run at the same apparent speed even when your framerate varies. After this library is properly set up (don't worry it's incredibly easy) you should be able to change your framerate from 30 to 60 or viceversa and your animations should run at exactly the same speed.
 
 ## Syntax
@@ -78,7 +77,7 @@ You can access sample code [here](example).
 
 ### Support
 
-More support is available at the officcial Corona Store Plugins forum:
+More support is available at the official Corona Store Plugins forum:
 
 * [Forum](https://forums.coronalabs.com/forum/654-corona-store-plugins/)
 
