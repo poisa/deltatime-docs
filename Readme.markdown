@@ -1,5 +1,6 @@
 # deltatime: Plugin API Docs
 
+|                      | &nbsp; 
 | -------------------- | ---------------------------------------------------------------
 | __Type__             | [library](http://docs.coronalabs.com/api/type/Library.html)
 | __Corona Store__     | [deltatime](http://store.coronalabs.com/plugin/deltatime)

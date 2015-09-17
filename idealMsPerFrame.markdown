@@ -1,5 +1,7 @@
 # deltatime.idealMsPerFrame()
 
+|                      | &nbsp; 
+| -------------------- | ---------------------------------------------------------------
 | __Type__             | [function](http://docs.coronalabs.com/api/type/Function.html)
 | __Library__          | [deltatime.*](Readme.markdown)
 | __Return value__     | [Number](https://docs.coronalabs.com/api/type/Number.html)
