@@ -5,6 +5,13 @@
 
 settings = 
 {
+	plugins =
+	{
+		["plugin.deltatime"] =
+		{
+			publisherId = "com.julianvidal",
+		},
+	},	
 	orientation =
 	{
 		default = "portrait",
